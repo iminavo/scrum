@@ -8,6 +8,14 @@ replace a third party. We work remotely - people from different timezones and do
 
 Here I will /try to/ keep my notes on processes at my company, in forms of discussions.
 
+## Carachters
+
+Phillip Chen - Our main architect. He is from Trois-Rivières, Quebec, Canada.
+Vital Robasz - A java programmer of seven years, turned PM.
+Aleena de Goors - An automation test engineer.
+Petr Zapletal - ???
+Daniil /Dan/ Kmetiuk - Our team lead.
+
 ## Note semantics
 
 I've noticed, that some of my notes may be too _emotional_, and I'd like to keep personal likings and banter out of these notes.
