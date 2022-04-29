@@ -11,9 +11,13 @@ Here I will /try to/ keep my notes on processes at my company, in forms of discu
 ## Carachters
 
 Phillip Chen - Our main architect. He is from Trois-Rivières, Quebec, Canada.
-Vital Robasz - A java programmer of seven years, turned PM.
+
+Vitar Robasz - A java programmer of seven years, turned PM.
+
 Aleena de Goors - An automation test engineer.
+
 Petr Zapletal - ???
+
 Daniil /Dan/ Kmetiuk - Our team lead.
 
 ## Note semantics
