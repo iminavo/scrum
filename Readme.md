@@ -20,6 +20,10 @@ Petr Zapletal - ???
 
 Daniil /Dan/ Kmetiuk - Our team lead.
 
+Karina Skorodyadko - A business analyst.
+
+Sai Prabhu - A senior Scala devloper. 
+
 ## Note semantics
 
 I've noticed, that some of my notes may be too _emotional_, and I'd like to keep personal likings and banter out of these notes.
