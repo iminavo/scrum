@@ -20,6 +20,8 @@ Petr Zapletal - ???
 
 Daniil /Dan/ Kmetiuk - Our team lead.
 
+Mark Sachsenheim - The lead of team 2.
+
 Karina Skorodyadko - A business analyst.
 
 Sai Prabhu - A senior Scala devloper. 
