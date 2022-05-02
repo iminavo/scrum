@@ -24,6 +24,8 @@ Karina Skorodyadko - A business analyst.
 
 Sai Prabhu - A senior Scala devloper. 
 
+Raimbek Saparov - A mid scala developer.
+
 ## Note semantics
 
 I've noticed, that some of my notes may be too _emotional_, and I'd like to keep personal likings and banter out of these notes.
