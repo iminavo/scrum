@@ -8,7 +8,7 @@ replace a third party. We work remotely - people from different timezones and do
 
 Here I will /try to/ keep my notes on processes at my company, in forms of discussions.
 
-## Carachters
+## Charachters
 
 Phillip Chen - Our main architect. He is from Trois-Rivières, Quebec, Canada.
 
