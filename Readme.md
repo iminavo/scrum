@@ -12,11 +12,13 @@ Here I will /try to/ keep my notes on processes at my company, in forms of discu
 
 Phillip Chen - Our main architect. He is from Trois-Rivières, Quebec, Canada.
 
-Vitar Robasz - A java programmer of seven years, turned PM.
+Zoey McBragh - A high ranking YAPS project manager.
+
+Vitar Robasz - Our PM, a former java programmer of seven years.
 
 Aleena de Goors - An automation test engineer.
 
-Petr Zapletal - ???
+Petr Zapletal - a mid Scala developer. 
 
 Daniil /Dan/ Kmetiuk - Our team lead.
 
@@ -27,6 +29,7 @@ Karina Skorodyadko - A business analyst.
 Sai Prabhu - A senior Scala devloper. 
 
 Raimbek Saparov - A mid scala developer.
+
 
 ## Note semantics
 
