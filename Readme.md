@@ -10,15 +10,35 @@ Here I will /try to/ keep my notes on processes at my company, in forms of discu
 
 ## Charachters
 
+### Current
+
 Phillip Chen - Our main architect. He is from Trois-Rivières, Quebec, Canada.
 
 Zoey McBragh - A high ranking YAPS project manager.
 
-Vitar Robasz - Our PM, a former java programmer of seven years.
-
 Aleena de Goors - An automation test engineer.
 
-Petr Zapletal - a mid Scala developer. 
+Petr Zapletal - My new team lead
+
+Oleg Kuznetsov - A /witty/ junior scala dev
+
+Sofia Huppmann -  A mid-scala dev
+
+Alexander J. Liu - A mid-scala dev
+ 
+Argen Alimbekov - The team lead of the second team
+
+Dave Gurnell - Architect
+
+Ganesh Kumar - My teams' project manager 
+
+Ciara O'Flynn - Our busyness analyst
+
+Jose Manuel Fernandez - Our delivery coach
+
+### No longer on the project
+
+Vitar Robasz - Our PM, a former java programmer of seven years.
 
 Daniil /Dan/ Kmetiuk - Our team lead.
 
@@ -29,7 +49,6 @@ Karina Skorodyadko - A business analyst.
 Sai Prabhu - A senior Scala devloper. 
 
 Raimbek Saparov - A mid scala developer.
-
 
 ## Note semantics
 
