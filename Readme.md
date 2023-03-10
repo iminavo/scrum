@@ -34,6 +34,8 @@ Ganesh Kumar - My teams' project manager
 
 Ciara O'Flynn - Our busyness analyst
 
+Amina Farzi - The QA automation lead
+
 Jose Manuel Fernandez - Our delivery coach
 
 ### No longer on the project
