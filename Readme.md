@@ -38,6 +38,10 @@ Amina Farzi - The QA automation lead
 
 Jose Manuel Fernandez - Our delivery coach
 
+Andre Sorbasz - A manual test engineer
+
+Sandro - guest, a friend of mine
+
 ### No longer on the project
 
 Vitar Robasz - Our PM, a former java programmer of seven years.
